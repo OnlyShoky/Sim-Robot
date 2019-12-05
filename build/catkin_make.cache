@@ -1,0 +1,2 @@
+ariac/ariac_example:ariac/osrf_gear:ariac/test_ariac
+-DCATKIN_DEVEL_PREFIX=/home/shoky/ariac_ws/devel -DCMAKE_INSTALL_PREFIX=/home/shoky/ariac_ws/install -G Unix Makefiles

@@ -1,0 +1,5 @@
+ajouter un truc sur le tapis:
+rosrun gazebo_ros spawn_model -sdf -x 1.2 -y 5 -z 1.2 -R 0 -P 0 -Y 0 -file /home/etudiant/ariac_ws/install/share/osrf_gear/models/piston_rod_part_ariac/model.sdf -model piston_rod_part_3
+
+demarer simu:
+rosservice call /ariac/start_competition
